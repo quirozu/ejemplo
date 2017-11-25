@@ -8,3 +8,9 @@
   right: 0px;
   width: 300px;
 }
+
+.titulo {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
